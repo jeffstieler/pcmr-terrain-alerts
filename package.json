@@ -1,0 +1,13 @@
+{
+  "name": "pcmr-terrain-alerts",
+  "version": "0.0.1",
+  "description": "Send Prowl alerts based on the status of terrain at Park City Mountain Resort.",
+  "main": "app.js",
+  "author": "Jeff Stieler <jeff.m.stieler@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "cheerio": "^0.14.0",
+    "request": "^2.34.0",
+    "node-prowl": "^0.1.7"
+  }
+}
